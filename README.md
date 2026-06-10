@@ -2,12 +2,13 @@
 AI-powered web application that analyzes homestay guest reviews and generates sentiment insights and response suggestions.
 
 ## Tech Stack
-Frontend: HTML, CSS, JavaScript
-Styling: Bootstrap
-Backend: Python
-Database: SQLite
+Frontend: React.js
+Styling: Tailwind CSS
+Backend: FastAPI (Python)
+Database: MongoDB Atlas
 Authentication: Basic User Login
-Deployment: Render
+AI Integration: Google Gemini API
+Deployment: Vercel + Render
 
 ## Setup
 Coming soon
